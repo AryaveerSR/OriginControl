@@ -1,0 +1,16 @@
+{
+    "name": "origincontrol",
+    "version": "1.0.1",
+    "description": "A Origin Controller for Express",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OriginControl"
+    },
+    "author": "AryaveerSR",
+    "license": "ISC",
+    "dependencies": {}
+}
